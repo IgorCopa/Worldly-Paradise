@@ -81,7 +81,7 @@ h3{
 }
 
 #bg-image{
-    background: url(../_images/caribbean.jpg);
+    background: url(../images/caribbean.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
